@@ -1,0 +1,1 @@
+# MC-GAN-for-motion-affected-MRI-scans
